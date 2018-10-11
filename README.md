@@ -1,3 +1,3 @@
-# Tennis-Game
-Tennis Game(Pong) using JavaScript
-# IGN - 10/10
+# Solo-Tennis
+Tennis Game made using JavaScript
+
