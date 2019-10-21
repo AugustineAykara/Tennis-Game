@@ -1,2 +1,3 @@
-# Tennis-Game
-Tennis Game(Pong) using JavaScript
+# Solo-Tennis
+Tennis Game made using JavaScript
+
